@@ -1,0 +1,10 @@
+
+# Arquivos gerados pela IDE IntelliJ
+.idea/
+
+# Arquivos compilados
+out/
+*.class
+
+# Arquivo de configuração do IntelliJ
+*.iml
